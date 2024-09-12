@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+html {
+   font-size: 62.6%;
+}
 body {
     background-image: linear-gradient(120deg, #f5d25e, #fda665);
     color:  white;
